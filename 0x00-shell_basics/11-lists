@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -al
-efibootmgr -v
+ls -al efibootmgr
