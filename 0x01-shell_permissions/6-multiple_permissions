@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo chmod ug+x hello
+sudo chmod o+r hello
