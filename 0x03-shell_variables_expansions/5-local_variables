@@ -1,2 +1,2 @@
-#!/bin/bavh
+#!/bin/bash
 echo $LOCALAPPDATA
