@@ -1,0 +1,2 @@
+#!/bin/bavh
+echo $LOCALAPPDATA
